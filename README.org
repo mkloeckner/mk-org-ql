@@ -16,10 +16,10 @@
 - [[#key-bindings][Key bindings]]
 
 * Description
-This layer adds package org-ql.
+This layer adds package [[https://github.com/alphapapa/org-ql][org-ql]].
 
 ** Features:
-  - installs org-ql package
+  - only installs org-ql package
  
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
